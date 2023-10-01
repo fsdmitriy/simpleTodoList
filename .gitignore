@@ -1,0 +1,6 @@
+bin/
+obj/
+*.vsidx
+*.config
+.vs/SimpleTODOList/v17/.suo
+*.dll
